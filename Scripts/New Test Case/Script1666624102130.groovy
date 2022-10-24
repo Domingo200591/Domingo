@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('google.com')
 
+WebUI.click(findTestObject(null))
+
